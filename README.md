@@ -1,8 +1,10 @@
 # USB-communications-with-a-HID-class
 Purpose: 
+
 Demonstrates USB communications with a generic HID-class device(control Output and interrupt Input only in code)
 
 Requirements:
+
 This software was written using Visual Studio 2013 for Windows desktop building for the .NET Framework v4.5.
 
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
