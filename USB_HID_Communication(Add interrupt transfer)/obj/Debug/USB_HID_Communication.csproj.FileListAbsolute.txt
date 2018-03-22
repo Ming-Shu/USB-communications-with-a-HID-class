@@ -1,0 +1,9 @@
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\bin\Debug\USB_HID_Communication.exe.config
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\bin\Debug\USB_HID_Communication.exe
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\bin\Debug\USB_HID_Communication.pdb
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\obj\Debug\USB_HID_Communication.Form1.resources
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\obj\Debug\USB_HID_Communication.Properties.Resources.resources
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\obj\Debug\USB_HID_Communication.csproj.GenerateResource.Cache
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\obj\Debug\USB_HID_Communication.exe
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\obj\Debug\USB_HID_Communication.pdb
+D:\C#DST專案開發\Practice\USB_HID_Communication\USB_HID_Communication\obj\Debug\USB_HID_Communication.csprojResolveAssemblyReference.cache
