@@ -12,6 +12,7 @@ User Interface:
 
 ![image](https://github.com/Ming-Shu/USB-communications-with-a-HID-class/blob/master/Interface_Explain.PNG)
 ---------------------------------------------------------------------------------------------------------------------------
+New Update!
 ![image](https://github.com/Ming-Shu/USB-communications-with-a-HID-class/blob/master/Interface_Explain2.PNG)
 ////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
